@@ -425,7 +425,7 @@ end
 
 table.insert(layers, 1,
 {
-  filename = "__base__/graphics/entity/rocket-silo/10-jet-flame.png",
+  filename = "__base__/graphics\entity\rocket-silo\rocket-jet.png",
   priority = "medium",
   blend_mode = "additive",
   draw_as_glow = true,
